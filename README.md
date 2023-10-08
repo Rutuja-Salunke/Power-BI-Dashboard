@@ -1,4 +1,4 @@
-# Unveiling Financial Insights: A Tale of Sales and Profits
+# Unveiling Financial Insights : A Tale of Sales and Profits
 
 ## Key features of this Power BI dashboard include:
 
