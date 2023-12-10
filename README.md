@@ -1,6 +1,6 @@
 # Unveiling Financial Insights : A Tale of Sales and Profits
 
-## Key features of this Power BI dashboard include:
+## Key features of this Power BI dashboard include :
 
 🔹 Total Profit and Gross Sales: This dashboard gives us real-time updates on the company's financial performance. We can easily see how much profit the company making and our total sales.
 
