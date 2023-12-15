@@ -1,4 +1,4 @@
-# "Unveiling Financial Insights: A Tale of Sales and Profits"
+# Unveiling Financial Insights: A Tale of Sales and Profits
 ## Step 1: Access to Data:
 
 Our journey begins with data, the lifeblood of any analysis. We obtained our financial data from an Excel spreadsheet. However, before we could embark on our analysis, we needed to ensure data integrity.
